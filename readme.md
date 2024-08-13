@@ -13,4 +13,4 @@ repositorios para armazenar resumos sobre git e github do curso versionamento de
 git init
 ```
 
-##🔍 Referencias
+##🔍 Referenciass
